@@ -1,0 +1,14 @@
+.title {
+  font-size: 24px;
+  font-weight: 700;
+  color: #121212;
+}
+
+.button {
+  transition: opacity 0.7s;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 0.7;
+  }
+}
